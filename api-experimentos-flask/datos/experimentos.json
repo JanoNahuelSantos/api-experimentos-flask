@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "titulo": "Experimento de la doble rendija",
+    "descripcion": "Demostración de la naturaleza ondulatoria de la luz.",
+    "resultado": "Confirmación de la interferencia de ondas.",
+    "fecha": "2024-01-15",
+    "autor":{
+        "dni": 12345678,
+        "nombre": "Sheldon",
+        "apellido": "Cooper",
+        "titulo_academico": "Físico Teórico",
+        "correo": "sheldon.cooper@bigbangtheory.com"
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Medición de la constante de Planck",
+    "descripcion": "Determinación experimental de la constante de Planck mediante el efecto fotoeléctrico.",
+    "resultado": "Valor medido: 6.626 x 10^-34 Js.",
+    "fecha": "2024-02-20",
+    "autor":{
+        "dni": 87654321,
+        "nombre": "Leonard",
+        "apellido": "Hofstadter",
+        "titulo_academico": "Físico Experimental",
+        "correo": "leonard.hofstadter@bigbangtheory.com"
+    }
+  },
+  {
+    "id": 3,
+    "titulo": "Observación de galaxias lejanas",
+    "descripcion": "Estudio de la luz emitida por galaxias a miles de millones de años luz.",
+    "resultado": "Confirmación de la expansión acelerada del universo.",
+    "fecha": "2024-03-10",
+    "autor":{
+        "dni": 11223344,
+        "nombre": "Rajesh",
+        "apellido": "Koothrappali",
+        "titulo_academico": "Astrofísico",
+        "correo": "rajesh.koothrappali@bigbangtheory.com"
+    }
+  },
+  {
+    "id": 4,
+    "titulo": "Prueba de materiales compuestos en microgravedad",
+    "descripcion": "Evaluación del comportamiento de nuevos materiales en condiciones de microgravedad.",
+    "resultado": "Mejora significativa en la resistencia a la tracción.",
+    "fecha": "2024-04-05",
+    "autor": {
+        "dni": 44332211,
+        "nombre": "Howard",
+        "apellido": "Wolowitz",
+        "titulo_academico": "Ingeniero Aeroespacial",
+        "correo": "howard.wolowitz@bigbangtheory.com"
+    }
+  },
+  {
+    "id": 5,
+    "titulo": "Estudio del cerebro bajo estrés",
+    "descripcion": "Análisis de la actividad cerebral en situaciones de estrés utilizando imágenes por resonancia magnética.",
+    "resultado": "Identificación de áreas cerebrales clave involucradas en la respuesta al estrés.",
+    "fecha": "2024-05-12",
+    "autor":{
+        "dni": 55667788,
+        "nombre": "Amy",
+        "apellido": "Farrah Fowler",
+        "titulo_academico": "Neurobióloga",
+        "correo": "amy.fowler@bigbangtheory.com"
+    }
+  },
+  {
+    "id": 6,
+    "titulo": "Resistencia bacteriana a antibióticos",
+    "descripcion": "Investigación sobre la evolución de la resistencia bacteriana frente a diferentes antibióticos.",
+    "resultado": "Descubrimiento de nuevas mutaciones asociadas a la resistencia.",
+    "fecha": "2024-06-18",
+    "autor": {
+        "dni": 88776655,
+        "nombre": "Bernadette",
+        "apellido": "Rostenkowski-Wolowitz",
+        "titulo_academico": "Microbióloga",
+        "correo": "bernadette.rostenkowski@bigbangtheory.com"
+    }
+  },
+  {
+    "id": 7,
+    "titulo": "Estudio del cerebro mientras duerme",
+    "descripcion": "Análisis de la actividad cerebral en la siesta.",
+    "resultado": "Identificación de áreas cerebrales que continúan activas mientras dormimos.",
+    "fecha": "2024-08-12",
+    "autor": {
+        "dni": 55667788,
+        "nombre": "Amy",
+        "apellido": "Farrah Fowler",
+        "titulo_academico": "Neurobióloga",
+        "correo": "amy.fowler@bigbangtheory.com"
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "dni": 12345678,
+        "nombre": "Sheldon",
+        "apellido": "Cooper",
+        "titulo_academico": "Físico Teórico",
+        "correo": "sheldon.cooper@bigbangtheory.com"
+    },
+    {
+        "dni": 87654321,
+        "nombre": "Leonard",
+        "apellido": "Hofstadter",
+        "titulo_academico": "Físico Experimental",
+        "correo": "leonard.hofstadter@bigbangtheory.com"
+    },
+    {
+        "dni": 11223344,
+        "nombre": "Rajesh",
+        "apellido": "Koothrappali",
+        "titulo_academico": "Astrofísico",
+        "correo": "rajesh.koothrappali@bigbangtheory.com"
+    },
+    {
+        "dni": 44332211,
+        "nombre": "Howard",
+        "apellido": "Wolowitz",
+        "titulo_academico": "Ingeniero Aeroespacial",
+        "correo": "howard.wolowitz@bigbangtheory.com"
+    },
+    {
+        "dni": 55667788,
+        "nombre": "Amy",
+        "apellido": "Farrah Fowler",
+        "titulo_academico": "Neurobióloga",
+        "correo": "amy.fowler@bigbangtheory.com"
+    },
+    {
+        "dni": 88776655,
+        "nombre": "Bernadette",
+        "apellido": "Rostenkowski-Wolowitz",
+        "titulo_academico": "Microbióloga",
+        "correo": "bernadette.rostenkowski@bigbangtheory.com"
+    },
+    {
+        "dni": 99887766,
+        "nombre": "Penny",
+        "apellido": "Hofstadter",
+        "titulo_academico": "Actriz",
+        "correo": "penny.hofstadter@bigbangtheory.com"
+    },
+    {
+        "dni": 33445566,
+        "nombre": "Leslie",
+        "apellido": "Winkle",
+        "titulo_academico": "Física Experimental",
+        "correo": "leslie.winkle@bigbangtheory.com"
+    },
+    {
+        "dni": 22113344,
+        "nombre": "Barry",
+        "apellido": "Kripke",
+        "titulo_academico": "Físico Teórico",
+        "correo": "barry.kripke@bigbangtheory.com"
+    }
+]
